@@ -1,0 +1,6 @@
+{
+  "name": "The Gate — From Darkness to Light",
+  "description": "تجربة تفاعلية مستوحاة من الويجا للعبور السينمائي من عالم الظلام إلى النور السماوي مع حركة الحروف والموسيقى الأوبرالية المتزامنة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
